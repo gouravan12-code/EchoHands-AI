@@ -1,0 +1,6 @@
+{
+  "name": "EchoHands AI",
+  "description": "AI-powered real-time Sign Language Translation platform enabling natural, seamless communication.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
